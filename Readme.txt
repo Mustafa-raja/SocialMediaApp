@@ -31,4 +31,4 @@ A social media application with very basic functionality (since we had two days 
 -The app lets you search from all the users in the website, where you can follow/unfollow the users.
 And some more.
 
-—— The application is built in two components a RESTapi and a React frontEnd, they are loosely coupled and only talk to each other using the api Mappings——
+â€”â€” The application is built in two components a RESTapi and a React frontEnd, they are loosely coupled and only talk to each other using the api Mappingsâ€”â€”
