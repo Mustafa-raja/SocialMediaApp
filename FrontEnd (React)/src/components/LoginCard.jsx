@@ -29,11 +29,10 @@ const Login = () => {
       .then((data) => {
         console.log(data);
         if (data.password === password) {
-          console.log("Genian maal hai");
           console.log(data.id );
           navigate("/newsfeed", { state: { id: data.id } }); 
         } else {
-          console.log("Ustaad pilag shaat hia");
+          console.log("success!!");
         }
       })
       .catch((error) => {
