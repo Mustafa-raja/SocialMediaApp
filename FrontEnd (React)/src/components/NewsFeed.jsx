@@ -79,7 +79,6 @@ const NewsFeed = () => {
               });
       
               Promise.all(fetchLikesCountPromises).then(() => {
-                console.log("WADDA NIGGA CHOTA NIGGA");
                 setFollowingPosts(appendPost);
                 setLoading(false);
               });
