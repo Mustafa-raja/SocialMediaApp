@@ -21,7 +21,7 @@ Secondly to run the server Run the following command:
 
 About Application :
 
-A social media application with very basic functionality (since we had two days to develop and understand some concepts):
+A social media application with very basic functionality (since we had three days to develop and understand some concepts):
 - The application allows you to register and login as a user:
 -You can post your thoughts on the application.
 -You can post/Update your bio.
