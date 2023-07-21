@@ -28,7 +28,9 @@ A social media application with very basic functionality (since we had two days 
 -You can Update/Delete your existing post.
 -You like/unlike posts of the users you follow as well as your posts.
 -You comment on posts of the users you follow as well as your posts.
+-The news feed of the app would display you the posts of all the users that you have followed.
 -The app lets you search from all the users in the website, where you can follow/unfollow the users.
 And some more.
+-For now, not much of Registration constaints have been applied to the application.
 
 —— The application is built in two components a RESTapi and a React frontEnd, they are loosely coupled and only talk to each other using the api Mappings——
